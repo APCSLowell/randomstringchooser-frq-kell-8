@@ -16,6 +16,5 @@ public class RandomStringChooser
     strings.remove(random);
     return temp;
   }
-  //Heads up! 
   //You will get a very confusing error message until you have working code in part b as well
 }
